@@ -6,7 +6,8 @@ import java.util.List;
 
 @Entity
 @Table
-public class ProductionHouse {
+public class
+ProductionHouse {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
